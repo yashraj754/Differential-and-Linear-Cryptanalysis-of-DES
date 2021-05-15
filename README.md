@@ -1,4 +1,4 @@
-# Differenital-and-Linear-Cryptanalysis-of-DES
+# Differential-and-Linear-Cryptanalysis-of-DES
 Differential analysis for 6-rouond DES, Linear analysis for 8-round DES <br>
 References: <br>
 For Differential analysis: Differential Cryptanalysis of the Data Encryption Standard by Eli Biham, Adi Shamir <br>
