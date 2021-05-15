@@ -1,0 +1,8 @@
+[[31, 0], [35, 1], [52, 1], [43, 1], [8, 1], [37, 1]] -(position of bit guessed, value guessed)
+Actual key: [0 1 1 0 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 0 0 1 0 1 1 1 1 1 0 1 0 1 1 1 1 0]
+Actual Values at positions guessed : 0 1 1 1 1 1 :- Matches guessed value
+
+RHS guessed value = 0 (as |Tmax - N/2| > |Tmin - N/2|
+RHS actual value = 0 :- matches guessed value
+
+Thus 7 bits correctly guessed.
