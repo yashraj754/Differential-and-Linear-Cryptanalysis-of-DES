@@ -120,7 +120,7 @@ def conv_str(s):
        
    return ret
 
-def get_mapping(k): # map of final bit position in subkey for round 6 to bit position in input key, k rounds
+def get_mapping(k): # map of final bit position in subkey for round k to bit position in input key
     keymap = PC2
     for i in range(48):
         if keymap[i] <= 28:
