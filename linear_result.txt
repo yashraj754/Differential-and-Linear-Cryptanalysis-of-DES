@@ -8,4 +8,6 @@ RHS actual value = 0 :- matches guessed value
 Thus 7 bits correctly guessed. <br>
 
 For guessing another 7 bits use linear approximation: <br>
-Ch[7,18,24] xor Cl[12,16] xor Pl[7,18,24,29] xor Ph[15] xor F(Pl, K1)[15] = K7[19,23] xor L5 xor K1[22]  (notations as given in Matsui paper)
+Ch[7,18,24] xor Cl[12,16] xor Pl[7,18,24,29] xor Ph[15] xor F(Pl, K1)[15] = K7[19,23] xor L5 xor K1[22]  (notations as given in Matsui paper) <br>
+<br>
+Rest 42 bits using brute force <br>
